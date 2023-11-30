@@ -1,7 +1,7 @@
 ### Hello, world👋
 
 - 🔭 Altualmente estou cursando Informática para Internet 
-- 🌱 Estudando JavaScript
+- 📚 Estudando JavaScript
 - 📫 Contate-me no e-mail: ...
 
 <div style="display: inline_block"><br>
