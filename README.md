@@ -4,7 +4,6 @@
 
 - 📚 Altualmente estou cursando Informática para Internet 
 - 📙 Estudando JavaScript
-- 📫 Contate-me no e-mail: ...
 - ❔  Tenho 17 anos e estou no segundo ano do ensino médio
 <div style="display: inline_block"><h1>Tecnologias que mais utilizo</h1><br>
  
