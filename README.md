@@ -3,6 +3,8 @@
 
 ### Hello, world👋
 
+<div>
+
 <div float="right">
 
 - 📚 Altualmente estou cursando Informática para Internet 
@@ -12,6 +14,8 @@
 
 <div float="left">
    <img alt="thomas-pic2" src="https://steamuserimages-a.akamaihd.net/ugc/1548632727022870262/7A4E635EF2778FED99968756D830CADE8F9D6297/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+</div>
+
 </div>
   
 <div style="display: inline_block"><h1>Tecnologias que mais utilizo</h1><br>
