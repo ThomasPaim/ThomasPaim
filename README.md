@@ -1,5 +1,5 @@
 
-<img width="100%" alt="thomas-pic" src="https://steamuserimages-a.akamaihd.net/ugc/1548632727022870262/7A4E635EF2778FED99968756D830CADE8F9D6297/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img width="80%" alt="thomas-pic" src="https://steamuserimages-a.akamaihd.net/ugc/1548632727022870262/7A4E635EF2778FED99968756D830CADE8F9D6297/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 ### Hello, world👋
 
