@@ -1,5 +1,5 @@
 
-<img width="80%" alt="thomas-pic" src="https://camo.githubusercontent.com/8bbad2425cfd6e66789cd45ba6822f256ffefb5bfe1b98d6123a455ff343b26e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62632f36632f31372f62633663313731656565323838613266316531323463373439333033623234652e676966">
+<img width="80%" alt="thomas-pic" src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif">
 
 ### Hello, world👋
 
