@@ -9,8 +9,10 @@
 
 <div float="right">
 
-- 📚 Altualmente estou cursando Informática para Internet 
+- 📚 Altualmente estou cursando Informática para Internet
+  
 - 📙 Estudando JavaScript
+  
 - ❔  Tenho 17 anos e estou no segundo ano do ensino médio
 </div>
 
