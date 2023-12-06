@@ -5,6 +5,8 @@
 
 <div>
 
+<img align ="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1548632727022870262/7A4E635EF2778FED99968756D830CADE8F9D6297/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+
 <div float="right">
 
 - 📚 Altualmente estou cursando Informática para Internet 
@@ -12,7 +14,7 @@
 - ❔  Tenho 17 anos e estou no segundo ano do ensino médio
 </div>
 
-<img align ="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1548632727022870262/7A4E635EF2778FED99968756D830CADE8F9D6297/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+
 
 </div>
   
