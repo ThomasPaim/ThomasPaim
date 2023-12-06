@@ -12,11 +12,9 @@
 - ❔  Tenho 17 anos e estou no segundo ano do ensino médio
 </div>
 
-<div float="left">
-   <img alt="thomas-pic2" src="https://steamuserimages-a.akamaihd.net/ugc/1548632727022870262/7A4E635EF2778FED99968756D830CADE8F9D6297/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
-</div>
+<img align ="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif](https://steamuserimages-a.akamaihd.net/ugc/1548632727022870262/7A4E635EF2778FED99968756D830CADE8F9D6297/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)"/>
 
-</div>
+
   
 <div style="display: inline_block"><h1>Tecnologias que mais utilizo</h1><br>
  
