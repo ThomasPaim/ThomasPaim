@@ -1,7 +1,7 @@
 
 
 
-<h1>Hello, world👋</h1> 
+
   
 <div style="display: inline_block"><h1>Tecnologias que mais utilizo</h1><br>
  
