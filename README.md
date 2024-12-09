@@ -2,10 +2,6 @@
 
 
 <h1>Hello, world👋</h1> 
-
-- 📚 Altualmente estou cursando Informática para Internet
-    
-- ❔  Tenho 17 anos e estou no terceiro ano do ensino médio
   
 <div style="display: inline_block"><h1>Tecnologias que mais utilizo</h1><br>
  
