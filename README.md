@@ -1,9 +1,14 @@
-
+<div>
+  <h2>Formação acadêmica 🎓</h2>
+    <p>Me formei como Técnico em Informática para Internet, juntamente com o Ensino Médio, e atualmente estou cursando Sistemas para Internet.</p>
+</div>
 
 
 
   
 <div style="display: inline_block">
+
+  <h2>Linguagens e ferramentas</h2>
  
    <img align="center" alt="Thomas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Thomas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
