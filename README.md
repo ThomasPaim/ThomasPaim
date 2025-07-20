@@ -1,4 +1,4 @@
-# IT student | ETEC 3/3 && Instituto Federal 2/6
+# IT student | Instituto Federal 2/6
 
 
 
