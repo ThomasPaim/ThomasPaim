@@ -1,7 +1,4 @@
-<div>
-  <h2>Formação acadêmica 🎓</h2>
-    <p>Me formei como Técnico em Informática para Internet, juntamente com o Ensino Médio, e atualmente estou cursando Sistemas para Internet.</p>
-</div>
+# IT student | Instituto Federal
 
 
 
