@@ -1,7 +1,10 @@
+<li>🌱 Estudando backend com Java</li>
+
+<br>
 
 <div style="display: inline_block">
 
-  # 🧰 Languages and Tools:
+ 
  
    <img align="center" alt="Thomas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Thomas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,9 +16,9 @@
 
 
 
-<br>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasPaim&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 
 
